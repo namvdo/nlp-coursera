@@ -259,5 +259,3 @@ for i, word in enumerate(words):
     plt.annotate(word, xy=(result[i, 0] - 0.05, result[i, 1] + 0.1))
 
 plt.show()
-
-
